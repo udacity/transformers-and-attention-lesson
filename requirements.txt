@@ -1,7 +1,8 @@
 accelerate==0.22.0
-# auto-gptq>=0.4.2
+bertviz==1.4.0
 bitsandbytes==0.41.1
 datasets==2.14.4
+ipywidgets==8.1.2
 numpy==1.25.2
 optimum==1.12.0
 pandas==2.1.0

@@ -10,6 +10,8 @@ $ tree .
 ├── CODEOWNERS
 ├── LICENSE.md
 ├── README.md
+├── demo-using-bert-to-detect-bias
+│   └── demo-using-bert-to-detect-bias.ipynb
 ├── exercise-1-implement-self-attention
 │   ├── README.md
 │   ├── solution
@@ -27,4 +29,11 @@ $ tree .
 │   └── starter
 │       └── exercise-2-create-your-own-gpt-model-starter.ipynb
 └── requirements.txt
+```
+
+To create the virtual environment:
+
+```
+python -m venv .venv
+.venv/bin/pip install -r requirements.txt
 ```
