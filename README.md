@@ -10,8 +10,10 @@ $ tree .
 ├── CODEOWNERS
 ├── LICENSE.md
 ├── README.md
-├── demo-using-bert-to-detect-bias
-│   └── demo-using-bert-to-detect-bias.ipynb
+├── demo-using-bertviz-to-detect-bias
+│   ├── README.md
+│   ├── demo-using-bertviz-to-detect-bias-completed.ipynb
+│   └── demo-using-bertviz-to-detect-bias-starter.ipynb
 ├── exercise-1-implement-self-attention
 │   ├── README.md
 │   ├── solution
@@ -27,6 +29,7 @@ $ tree .
 │   │   ├── common.py
 │   │   └── exercise-2-create-your-own-gpt-model-solution.ipynb
 │   └── starter
+│       ├── README.md
 │       └── exercise-2-create-your-own-gpt-model-starter.ipynb
 └── requirements.txt
 ```
